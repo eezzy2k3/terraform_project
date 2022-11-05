@@ -1,0 +1,9 @@
+---
+- name: Install postgresql.
+  hosts: all
+    
+
+
+  tasks:
+  - name: Execute script 
+    script: script.sh

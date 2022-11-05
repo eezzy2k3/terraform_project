@@ -1,0 +1,7 @@
+[host]
+52.91.80.109
+
+[host:vars]
+ansible_user=admin
+ansible_ssh_private_key_file=aws.pem
+ansible_ssh_port=22
