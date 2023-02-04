@@ -1,4 +1,0 @@
-- The main ansible playbook for deploying laravel is in file playbook.yml
-- the inventory is in inventory file
-- thr script for installing postgresql is in script.sh
-- the ansible playbook for deploying postgresql is in script.yml
